@@ -47,3 +47,4 @@ toys.forEach(item => {
 })
 document.querySelector("#forPrice").innerHTML = forPrice
 document.querySelector("#count").innerHTML = `самых дешевых игрушек: ${count}`
+
